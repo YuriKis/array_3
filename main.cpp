@@ -1,4 +1,3 @@
-//Задание 3 с массивами, строим пирамиду
 #include <iostream>
 
 using namespace std;
